@@ -1,0 +1,15 @@
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\bin\Debug\net6.0\ResturantSystem.repository.deps.json
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\bin\Debug\net6.0\ResturantSystem.repository.dll
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\bin\Debug\net6.0\ResturantSystem.repository.pdb
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\bin\Debug\net6.0\ResturantSystem.core.dll
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\bin\Debug\net6.0\ResturantSystem.core.pdb
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.csproj.AssemblyReference.cache
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.AssemblyInfoInputs.cache
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.AssemblyInfo.cs
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.csproj.CoreCompileInputs.cache
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.csproj.CopyComplete
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.dll
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\refint\ResturantSystem.repository.dll
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ResturantSystem.repository.pdb
+C:\Users\CompuMisr\Desktop\Resturant_System\ResturantSystem.repository\obj\Debug\net6.0\ref\ResturantSystem.repository.dll
